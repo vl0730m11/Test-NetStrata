@@ -11,12 +11,8 @@ public class HostServiceFixture
 
   public HostServiceFixture()
   {
-    // Here, use mocks or real implementations as appropriate
     ParseClassesService = new ParseClassesService();
     TypeScriptExportService = new TypeScriptExportService();
-
-    //ParseClassesService = parseClassesServiceMock.Object;
-    //TypeScriptExportService = typeScriptExportServiceMock.Object;
 
     HostService = new HostService(ParseClassesService, TypeScriptExportService);
   }
