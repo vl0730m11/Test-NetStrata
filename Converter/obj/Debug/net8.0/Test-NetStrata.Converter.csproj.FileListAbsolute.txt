@@ -1,0 +1,4 @@
+C:\projects\Test-NetStrata\converter\obj\Debug\net8.0\Test-NetStrata.Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Test-NetStrata\converter\obj\Debug\net8.0\Test-NetStrata.Converter.AssemblyInfoInputs.cache
+C:\projects\Test-NetStrata\converter\obj\Debug\net8.0\Test-NetStrata.Converter.AssemblyInfo.cs
+C:\projects\Test-NetStrata\converter\obj\Debug\net8.0\Test-NetStrata.Converter.csproj.CoreCompileInputs.cache

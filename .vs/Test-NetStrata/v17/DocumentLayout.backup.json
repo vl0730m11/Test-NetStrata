@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\Test-NetStrata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0321F6-2CC4-451A-A15C-96FECDA9DF52}|TestNetStrata.Converter.IntegrationTests\\TestNetStrata.Converter.IntegrationTests.csproj|c:\\projects\\test-netstrata\\testnetstrata.converter.integrationtests\\hostservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0321F6-2CC4-451A-A15C-96FECDA9DF52}|TestNetStrata.Converter.IntegrationTests\\TestNetStrata.Converter.IntegrationTests.csproj|solutionrelative:testnetstrata.converter.integrationtests\\hostservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A0BEBB-785F-4AC2-A866-3B974B413DE7}|converter\\TestNetStrata.Converter.csproj|c:\\projects\\test-netstrata\\converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A0BEBB-785F-4AC2-A866-3B974B413DE7}|converter\\TestNetStrata.Converter.csproj|solutionrelative:converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A0BEBB-785F-4AC2-A866-3B974B413DE7}|converter\\TestNetStrata.Converter.csproj|c:\\projects\\test-netstrata\\converter\\services\\parseclassesservices\\parseclassesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A0BEBB-785F-4AC2-A866-3B974B413DE7}|converter\\TestNetStrata.Converter.csproj|solutionrelative:converter\\services\\parseclassesservices\\parseclassesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A0BEBB-785F-4AC2-A866-3B974B413DE7}|converter\\TestNetStrata.Converter.csproj|c:\\projects\\test-netstrata\\converter\\hostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A0BEBB-785F-4AC2-A866-3B974B413DE7}|converter\\TestNetStrata.Converter.csproj|solutionrelative:converter\\hostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0321F6-2CC4-451A-A15C-96FECDA9DF52}|TestNetStrata.Converter.IntegrationTests\\TestNetStrata.Converter.IntegrationTests.csproj|c:\\projects\\test-netstrata\\testnetstrata.converter.integrationtests\\hostservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0321F6-2CC4-451A-A15C-96FECDA9DF52}|TestNetStrata.Converter.IntegrationTests\\TestNetStrata.Converter.IntegrationTests.csproj|solutionrelative:testnetstrata.converter.integrationtests\\hostservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParseClassesService.cs",
+              "DocumentMoniker": "C:\\projects\\Test-NetStrata\\Converter\\Services\\ParseClassesServices\\ParseClassesService.cs",
+              "RelativeDocumentMoniker": "Converter\\Services\\ParseClassesServices\\ParseClassesService.cs",
+              "ToolTip": "C:\\projects\\Test-NetStrata\\Converter\\Services\\ParseClassesServices\\ParseClassesService.cs",
+              "RelativeToolTip": "Converter\\Services\\ParseClassesServices\\ParseClassesService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:42:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HostService.cs",
+              "DocumentMoniker": "C:\\projects\\Test-NetStrata\\Converter\\HostService.cs",
+              "RelativeDocumentMoniker": "Converter\\HostService.cs",
+              "ToolTip": "C:\\projects\\Test-NetStrata\\Converter\\HostService.cs",
+              "RelativeToolTip": "Converter\\HostService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:29:24.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\Test-NetStrata\\Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Converter\\Program.cs",
+              "ToolTip": "C:\\projects\\Test-NetStrata\\Converter\\Program.cs",
+              "RelativeToolTip": "Converter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:21:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HostServiceFixture.cs",
+              "DocumentMoniker": "C:\\projects\\Test-NetStrata\\TestNetStrata.Converter.IntegrationTests\\HostServiceFixture.cs",
+              "RelativeDocumentMoniker": "TestNetStrata.Converter.IntegrationTests\\HostServiceFixture.cs",
+              "ToolTip": "C:\\projects\\Test-NetStrata\\TestNetStrata.Converter.IntegrationTests\\HostServiceFixture.cs",
+              "RelativeToolTip": "TestNetStrata.Converter.IntegrationTests\\HostServiceFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:07:03.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostServiceTests.cs",
+              "DocumentMoniker": "C:\\projects\\Test-NetStrata\\TestNetStrata.Converter.IntegrationTests\\HostServiceTests.cs",
+              "RelativeDocumentMoniker": "TestNetStrata.Converter.IntegrationTests\\HostServiceTests.cs",
+              "ToolTip": "C:\\projects\\Test-NetStrata\\TestNetStrata.Converter.IntegrationTests\\HostServiceTests.cs",
+              "RelativeToolTip": "TestNetStrata.Converter.IntegrationTests\\HostServiceTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:56:31.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
